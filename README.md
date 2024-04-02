@@ -23,3 +23,5 @@ $ pip install -r requirements.txt
 $ streamlit run app.py
 ```
 Open http://localhost:8501 to view the app.
+
+Author: Perelygin Sergey
