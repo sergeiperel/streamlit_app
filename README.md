@@ -2,7 +2,7 @@
 
 This project is done using [Streamlit](https://www.streamlit.io/) framework. The data used in this repo is the [NHL Player Stats](https://www.kaggle.com/datasets/xavya77/nhl04to18/data) from Kaggle. This dataset contains regular and "advanced" statistics for all NHL skaters from the 2004 through the 2018 season.
 
-Try app [here]()!
+Try app [here](https://nhlplayersstats.streamlit.app/)!
 
 ## Files
 
